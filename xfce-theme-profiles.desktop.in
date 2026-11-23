@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Perfis de Tema
+Name[en]=Theme Profiles
+Comment=Crie perfis de tema (GTK, ícones, Terminal e Mousepad) e alterne entre eles
+Comment[en]=Create theme profiles (GTK, icons, Terminal and Mousepad) and switch between them
+Exec=@BINDIR@/xfce-theme-profiles
+Icon=preferences-desktop-theme
+Terminal=false
+StartupNotify=true
+Categories=X-XFCE;X-XFCE-SettingsDialog;X-XFCE-PersonalSettings;Settings;GTK;
+OnlyShowIn=XFCE;
+Keywords=tema;perfil;gtk;ícones;terminal;mousepad;aparência;
